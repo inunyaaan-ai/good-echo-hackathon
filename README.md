@@ -45,4 +45,4 @@
 
 ---
 
-*AUTOMATA Space Hackathon 2026 — Team いぬにゃん*
+*AUTOMATA Space Hackathon 2026 — Team GOOD ECHO*
